@@ -1,4 +1,4 @@
-# Namaste 👋, I'm Munna kr.
+# Namaste 👋, I'm Munna
 
 ### Full Stack Developer | AI Engineer
 
