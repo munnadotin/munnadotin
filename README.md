@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI Engineer
 
-I build production-ready web applications and AI-powered systems using TypeScript, Python, and modern cloud technologies.
+I build web applications and AI-powered systems using TypeScript, Python, and modern cloud technologies.
 
  Currently focused on:
 
